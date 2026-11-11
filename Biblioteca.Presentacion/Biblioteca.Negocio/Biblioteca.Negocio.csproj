@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Biblioteca.Entidades\Biblioteca.Entidades.csproj" />
+		<ProjectReference Include="..\Biblioteca.Datos\Biblioteca.Datos.csproj" />
+	</ItemGroup>
+
+</Project>

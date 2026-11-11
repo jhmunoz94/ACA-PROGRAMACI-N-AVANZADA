@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Biblioteca.Datos/Biblioteca.Datos.csproj" />
+  <Project Path="Biblioteca.Entidades/Biblioteca.Entidades.csproj" />
+  <Project Path="Biblioteca.Negocio/Biblioteca.Negocio.csproj" />
+  <Project Path="Biblioteca.Presentacion/Biblioteca.Presentacion.csproj" Id="52fd8b00-a437-46d1-9604-ffdb2f9cfb43" />
+</Solution>
